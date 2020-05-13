@@ -1,0 +1,7 @@
+C:\Users\ryanl\Documents\College\Projeto Final Grafos\Trabalho final Grafos\Trabalho final Grafos\bin\Debug\Trabalho final Grafos.exe.config
+C:\Users\ryanl\Documents\College\Projeto Final Grafos\Trabalho final Grafos\Trabalho final Grafos\bin\Debug\Trabalho final Grafos.exe
+C:\Users\ryanl\Documents\College\Projeto Final Grafos\Trabalho final Grafos\Trabalho final Grafos\bin\Debug\Trabalho final Grafos.pdb
+C:\Users\ryanl\Documents\College\Projeto Final Grafos\Trabalho final Grafos\Trabalho final Grafos\obj\Debug\Trabalho final Grafos.csprojResolveAssemblyReference.cache
+C:\Users\ryanl\Documents\College\Projeto Final Grafos\Trabalho final Grafos\Trabalho final Grafos\obj\Debug\Trabalho final Grafos.csproj.CoreCompileInputs.cache
+C:\Users\ryanl\Documents\College\Projeto Final Grafos\Trabalho final Grafos\Trabalho final Grafos\obj\Debug\Trabalho final Grafos.exe
+C:\Users\ryanl\Documents\College\Projeto Final Grafos\Trabalho final Grafos\Trabalho final Grafos\obj\Debug\Trabalho final Grafos.pdb
